@@ -1,5 +1,6 @@
 # Machine Learning Optimization From Scratch. 
 
+ 
 A complete hands-on exploration of optimization algorithms used in machine learning and deep learning, starting from the mathematical foundations of gradient-based optimization and progressing toward modern optimizers, learning-rate strategies, convergence analysis, numerical stability, and practical training behavior.
 
 This repository is built around understanding what actually happens during model optimization.
