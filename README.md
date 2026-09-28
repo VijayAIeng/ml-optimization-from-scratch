@@ -7,7 +7,7 @@ This repository is built around understanding what actually happens during model
 Instead of treating optimizers such as SGD, Adam, or AdamW as black-box functions, I will implement the important algorithms from scratch, understand their mathematical foundations, inspect their parameter updates, visualize optimization behavior, compare convergence, and study the practical tradeoffs between different optimization strategies.
 
 The goal is to understand how a model moves from its current parameters toward better parameters during training, why some optimization methods converge faster than others, why training can become unstable, and how optimization choices affect model quality and computational efficiency.
-
+  
 ----
 
 # Why Optimization Matters
