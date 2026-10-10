@@ -10,7 +10,7 @@ The goal is to understand how a model moves from its current parameters toward b
   
 ---- 
 
-
+# Why Optimization Matters
 
 Training a machine learning model is fundamentally an optimization problem.
 
